@@ -13,6 +13,7 @@
 		D0BEAC5B2659FA0A001429AC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0BEAC592659FA0A001429AC /* Main.storyboard */; };
 		D0BEAC5D2659FA0C001429AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0BEAC5C2659FA0C001429AC /* Assets.xcassets */; };
 		D0BEAC602659FA0C001429AC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0BEAC5E2659FA0C001429AC /* LaunchScreen.storyboard */; };
+		D0BEAC6F265A42A5001429AC /* SerchTableView テンプレート.png in Resources */ = {isa = PBXBuildFile; fileRef = D0BEAC6E265A42A5001429AC /* SerchTableView テンプレート.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D0BEAC5C2659FA0C001429AC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D0BEAC5F2659FA0C001429AC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D0BEAC612659FA0C001429AC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D0BEAC6E265A42A5001429AC /* SerchTableView テンプレート.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SerchTableView テンプレート.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		D0BEAC522659FA0A001429AC /* OriginalApri */ = {
 			isa = PBXGroup;
 			children = (
+				D0BEAC6E265A42A5001429AC /* SerchTableView テンプレート.png */,
 				D0BEAC532659FA0A001429AC /* AppDelegate.swift */,
 				D0BEAC552659FA0A001429AC /* SceneDelegate.swift */,
 				D0BEAC572659FA0A001429AC /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D0BEAC602659FA0C001429AC /* LaunchScreen.storyboard in Resources */,
+				D0BEAC6F265A42A5001429AC /* SerchTableView テンプレート.png in Resources */,
 				D0BEAC5D2659FA0C001429AC /* Assets.xcassets in Resources */,
 				D0BEAC5B2659FA0A001429AC /* Main.storyboard in Resources */,
 			);
