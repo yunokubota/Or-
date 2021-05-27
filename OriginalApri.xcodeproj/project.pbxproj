@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D0A97216265D0CB0008C15FF /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A97215265D0CB0008C15FF /* SettingViewController.swift */; };
+		D0B44B45265FD3A300107221 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0B44B44265FD3A300107221 /* MapViewController.swift */; };
 		D0BEAC542659FA0A001429AC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0BEAC532659FA0A001429AC /* AppDelegate.swift */; };
 		D0BEAC562659FA0A001429AC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0BEAC552659FA0A001429AC /* SceneDelegate.swift */; };
 		D0BEAC582659FA0A001429AC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0BEAC572659FA0A001429AC /* ViewController.swift */; };
@@ -17,6 +19,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D0A97215265D0CB0008C15FF /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
+		D0B44B44265FD3A300107221 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		D0BEAC502659FA0A001429AC /* OriginalApri.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OriginalApri.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0BEAC532659FA0A001429AC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D0BEAC552659FA0A001429AC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +67,8 @@
 				D0BEAC552659FA0A001429AC /* SceneDelegate.swift */,
 				D0BEAC572659FA0A001429AC /* ViewController.swift */,
 				D0BEAC592659FA0A001429AC /* Main.storyboard */,
+				D0B44B44265FD3A300107221 /* MapViewController.swift */,
+				D0A97215265D0CB0008C15FF /* SettingViewController.swift */,
 				D0BEAC5C2659FA0C001429AC /* Assets.xcassets */,
 				D0BEAC5E2659FA0C001429AC /* LaunchScreen.storyboard */,
 				D0BEAC612659FA0C001429AC /* Info.plist */,
@@ -144,6 +150,8 @@
 				D0BEAC582659FA0A001429AC /* ViewController.swift in Sources */,
 				D0BEAC542659FA0A001429AC /* AppDelegate.swift in Sources */,
 				D0BEAC562659FA0A001429AC /* SceneDelegate.swift in Sources */,
+				D0B44B45265FD3A300107221 /* MapViewController.swift in Sources */,
+				D0A97216265D0CB0008C15FF /* SettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
